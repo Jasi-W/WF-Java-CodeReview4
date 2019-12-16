@@ -1,0 +1,28 @@
+PRODUCT Pfeffer
+QUANTITY 1 Stück
+OLD PRICE 3.49
+NEW PRICE 2.79
+DESCRIPTION
+Schwarzer Pfeffer verleiht Ihren Speisen eine pikante Schärfe, besonders wenn er länger mitgekocht wird.
+
+PRODUCT Schafmilchkäse
+QUANTITY 200 Gramm Packung
+OLD PRICE 2.59
+NEW PRICE 1.99
+DESCRIPTION
+Hier gibt es keine Beschreibung, weil unsere Handelskette kennst sich nur bedingt damit aus, wie man eine Werbebeschreibung schreibt.
+
+PRODUCT Vöslauer
+QUANTITY 1.5 Liter Flasche
+OLD PRICE 0.75
+NEW PRICE 0.49
+DESCRIPTION
+Spritziges Vöslauer Mineralwasser.
+
+PRODUCT Zucker
+QUANTITY 500 Gramm Paket
+OLD PRICE 1.39
+NEW PRICE 0.89
+DESCRIPTION
+Natürliches Gelieren wird durch Apfelpektin unterstützt, welches im richtigen Verhältnis mit Zitronensäure und Kristallzucker abgemischt wurde.
+
